@@ -2,7 +2,7 @@
 .bundle
 vendor
 Gemfile.lock
-
+.history
 # Jekyll cache
 .jekyll-cache
 _site
